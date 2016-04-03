@@ -1,0 +1,19 @@
+[Box: ::Default - ::<<Unknown>>::Thread]
+X=151
+Y=40
+Visible=0
+
+[Box: ::Default - ::Default::ClientThread]
+X=0
+Y=0
+
+[Box: ::Default - ::Default::ServerThread]
+X=247
+Y=6
+
+[Diagram: ::Default]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+

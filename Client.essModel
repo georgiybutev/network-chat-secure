@@ -1,0 +1,23 @@
+[Box: ::Default - ::<<Unknown>>::Thread]
+X=150
+Y=40
+Visible=0
+
+[Box: ::Default - ::Default::Client]
+X=14
+Y=2
+
+[Box: ::Default - ::Default::ClientConnect]
+X=241
+Y=9
+
+[Box: ::Default - ::Default::ServerAccept]
+X=3
+Y=99
+
+[Diagram: ::Default]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+

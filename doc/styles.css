@@ -1,0 +1,29 @@
+.body {
+  font-family: arial, helvetica; 
+  font-size: 12px;
+}
+.head {
+  font-size : 25px;
+  font-weight : bold;
+}
+.p_name {
+  font-size : 21px;
+  font-weight : bold;
+}
+.tableheader { 
+  background-color:black;
+  color: white;
+  font-size : 15px;
+  font-weight : bold;
+  vertical-align:top;
+}
+.ClassTableHeader { 
+  background-color:silver;
+  font-size : 15px;
+  font-weight : bold;
+  vertical-align:top;
+}
+.t_cell {
+  font-size : 12px;
+  vertical-align:top;
+}
